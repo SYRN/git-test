@@ -10,5 +10,8 @@ public class ArrayWithRandomInts
       // fill array
       for (k = 0; k < 1000; k++)
          myArray[k] = (int)(Math.random()*1000);
+         
+      // change made here 
+      // check if git updated
    }
 }
