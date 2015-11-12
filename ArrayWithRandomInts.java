@@ -13,7 +13,7 @@ public class ArrayWithRandomInts
          
       // change made here 
       // check if git updated
-      
+      System.out.println("TESTING GIT Fetch");
       
       System.out.println("TESTING MORE GIT");
    }
